@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using TMPro;
 public class GameController : MonoBehaviour
 {
+    //v0
     public Button[] buttons;
     public Button playerVsComputerButton;
     public Button playerVsPlayerButton;
